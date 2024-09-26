@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 from telebot.types import ReplyKeyboardMarkup, InlineKeyboardMarkup, InlineKeyboardButton
 
-token='7372198946:AAHod6XogSROYhrnv5pLyDCEMA02iGMxMQY'
+token='токен'
 bot=telebot.TeleBot(token)
 
 
